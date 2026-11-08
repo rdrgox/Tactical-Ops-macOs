@@ -23,7 +23,7 @@ Two alternative installers are available:
 
 1. Download the desired DMG.
 2. Open the DMG file.
-3. Drag `UnrealTournament.app` to **Applications**.
+3. Drag `TacticalOps.app` to **Applications**.
 4. Launch the application.
 
 On first launch, the application automatically prepares the required game files in:
@@ -31,9 +31,7 @@ On first launch, the application automatically prepares the required game files 
 ```text
 ~/Library/Application Support/Unreal Tournament/
 ```
-
 No manual file copying or configuration changes are required.
-
 
 ## Important
 TO340 and TO350 are alternative installations.
