@@ -34,8 +34,9 @@ On first launch, the application automatically prepares the required game files 
 
 No manual file copying or configuration changes are required.
 
-## Important
-TO340 and TO350 are alternative installations.
+> [!WARNING]
+> ## Important
+> TO340 and TO350 are alternative installations.
 
 Launching one version makes its files active in:
 ```
