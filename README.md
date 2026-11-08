@@ -30,3 +30,27 @@ On first launch, the application automatically prepares the required game files 
 
 ```text
 ~/Library/Application Support/Unreal Tournament/
+```
+
+No manual file copying or configuration changes are required.
+
+## Important
+TO340 and TO350 are alternative installations.
+
+Launching one version makes its files active in:
+```
+~/Library/Application Support/Unreal Tournament/
+```
+
+Do not use both versions simultaneously.
+
+## Extra Content
+Each DMG includes an Extra/ folder containing:
+- Manual.pdf
+- Tactical Ops archive.html
+- Tactical Ops promotional image, when available.
+
+## Credits
+- [OldUnreal](https://github.com/OldUnreal/UnrealTournamentPatches) — Unreal Tournament 469e engine
+- [Tactical Ops Archive](https://tactical-ops.eu) — Tactical Ops client resources
+
