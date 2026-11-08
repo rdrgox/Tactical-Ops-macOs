@@ -34,16 +34,17 @@ On first launch, the application automatically prepares the required game files 
 
 No manual file copying or configuration changes are required.
 
-> [!WARNING]
-> ## Important
-> TO340 and TO350 are alternative installations.
+
+## Important
+TO340 and TO350 are alternative installations.
 
 Launching one version makes its files active in:
 ```
 ~/Library/Application Support/Unreal Tournament/
 ```
 
-Do not use both versions simultaneously.
+> [!WARNING]
+> **Do not use both versions simultaneously.**
 
 ## Extra Content
 Each DMG includes an Extra/ folder containing:
